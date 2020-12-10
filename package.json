@@ -1,0 +1,22 @@
+{
+  "name": "webpack-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenstuder/webpack-from-scratch.git"
+  },
+  "author": "Stephen Studer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenstuder/webpack-from-scratch/issues"
+  },
+  "homepage": "https://github.com/stephenstuder/webpack-from-scratch#readme",
+  "dependencies": {
+    "webpack": "^5.10.0"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "webpack-from-scratch",
   "version": "1.0.0",
-  "description": "Testing the ins and out of basic webpack",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
